@@ -1,0 +1,46 @@
+{
+  "SOIL": {
+    "data": {
+      "PEDON": ["DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767", "DE02114767"],
+      "SOURCE": ["IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT", "IBSNAT"],
+      "TEXTURE": ["SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL", "SL"],
+      "DEPTH": [210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210, 210],
+      "DESCRIPTION": ["DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM", "DEFAULT - DEEP SANDY LOAM"],
+      "SITE": ["Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic"],
+      "COUNTRY": ["Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic"],
+      "LAT": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"],
+      "LONG": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"],
+      "SCS FAMILY": ["Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic", "Generic"],
+      "SCOM": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+      "SALB": [0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13, 0.13],
+      "SLU1": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "SLDR": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+      "SLRO": [68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68],
+      "SLNF": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      "SLPF": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      "SMHB": ["IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001"],
+      "SMPX": ["IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001"],
+      "SMKE": ["IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001", "IB001"],
+      "SLB": [5, 10, 20, 30, 40, 50, 60, 70, 90, 110, 130, 150, 170, 190, 210],
+      "SLMH": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+      "SLLL": [0.052, 0.052, 0.052, 0.052, 0.066, 0.073, 0.073, 0.0913, 0.128, 0.138, 0.1413, 0.138, 0.138, 0.138, 0.138],
+      "SDUL": [0.2112, 0.2112, 0.2112, 0.2112, 0.224, 0.2304, 0.2304, 0.2464, 0.2784, 0.2872, 0.2916, 0.2916, 0.2924, 0.2928, 0.2928],
+      "SSAT": [0.4308, 0.4308, 0.4308, 0.4308, 0.4316, 0.432, 0.432, 0.4324, 0.4332, 0.4316, 0.4312, 0.432, 0.4328, 0.4332, 0.4332],
+      "SRGF": [1, 1, 0.8793, 0.638, 0.5273, 0.4313, 0.35, 0.3077, 0.223, 0.1557, 0.1037, 0.067, 0.047, 0.0313, 0.02],
+      "SSKS": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"],
+      "SBDM": [1.61, 1.61, 1.61, 1.61, 1.61, 1.61, 1.61, 1.61, 1.61, 1.6167, 1.62, 1.62, 1.62, 1.62, 1.62],
+      "SLOC": [0.7, 0.7, 0.6867, 0.66, 0.6067, 0.58, 0.58, 0.53, 0.43, 0.3167, 0.2133, 0.12, 0.0667, 0.03, 0.01],
+      "SLCL": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+      "SLSI": [30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30],
+      "SLCF": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "SLNI": [0.07, 0.07, 0.07, 0.07, 0.0633, 0.06, 0.06, 0.0533, 0.04, 0.0333, 0.0233, 0.01, 0.0033, 0, 0],
+      "SLHW": [6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5],
+      "SLHB": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"],
+      "SCEC": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"],
+      "SADC": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"]
+    },
+    "attributes": {
+      "_class_attribute": "data.frame"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+"soil_profile_ID","soil_albedo","soil_evaporation_limit","drainage_rate_per_day","runoff_curve_no_SCS","soil_surface_color","mineralization_factor","pH_buffer_determin_meth","potassium_determ_method","phosphorus_determ_method","soil_fertility_on_photo"
+"DE02157980",0.1,6,0.5,75,"BK",1,"SA001","SA001","SA001",1

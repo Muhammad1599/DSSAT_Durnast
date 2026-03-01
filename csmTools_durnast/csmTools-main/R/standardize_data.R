@@ -1,0 +1,59 @@
+#'
+#' @noRd
+#'
+
+standardize_data <- function(dataset, data_model = c("icasa", "dssat")) {
+  
+  #MATCH ARGS
+  
+  switch(
+    data_model,
+    "icasa" = {
+      out <- dataset
+    },
+    "dssat" = {
+      out <- .standardize_dssat_data(dataset)
+    }
+  )
+  
+  return(out)
+}
+
+#'
+#' @noRd
+#'
+
+# TODO TEST: whole routine should be robust to missing SOIL/WEATHER DATA
+.standardize_dssat_data <- function(dataset) {
+
+  # Apply DSSAT standard codes
+  dataset_nms <- apply_naming_rules(dataset)
+  # TODO: test with single exp + add file names
+  
+  # Split by experiment (as per DSSAT definition)
+  dataset_split <- split_dataset(dataset_nms, key = "experiment", data_model = "dssat")
+  # Split weather data to match the cultivation season for each experiment
+  dataset_split <- lapply(dataset_split, extract_season_weather)   #TOFIX: DSSAT DATE FORMATTING!
+  
+  # Extract comments
+  comments_split <- lapply(dataset_split, function(ls) {
+    comments <- purrr::map(ls, extract_dssat_notes)
+    purrr::keep(comments, ~ nrow(.x) > 0)
+  })
+  
+  # Apply required object structure for file export with DSSAT library functions
+  dataset_split_fmt <- purrr::map2(
+    dataset_split,
+    comments_split,
+    format_dssat_sections
+  )
+  
+  # Return only first list object if single experiment
+  if (is.list(dataset_split_fmt) && length(dataset_split_fmt) == 1) {
+    out <- dataset_split_fmt[[1]]  # Single experiment
+  } else {
+    out <- dataset_split_fmt  # Multiple experiment
+  }
+
+  return(out)
+}

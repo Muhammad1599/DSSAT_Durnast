@@ -1,0 +1,241 @@
+# ================================================================
+# BonaRes-LTE Data Model
+# ================================================================
+
+bonares-lte_de:
+  # --- Definitional Properties ---
+  master_key: "experiment"
+  key_source_table: "METADATA" 
+  design_keys:
+    experiment: "Experiment_name"
+    year: "Versuchsjahr"
+    treatment: "Pruefglied_ID"
+    plot: "Parzelle_ID"
+  data_tables:
+    - METADATA
+    - VERSUCHSAUFBAU
+    - PRUEFGLIED
+    - FAKTOR
+    - FAKTOR1_STUFE
+    - FAKTOR2_STUFE
+    - FAKTOR3_STUFE
+    - PARZELLE
+    - FRUCHTFOLGE
+    - KULTUR
+    - SAAT_PFLANZGUT
+    - SORTE
+    - AUSSAAT
+    - BEREGNUNG
+    - DUENGUNG
+    - DUENGEMITTEL
+    - PFLANZENSCHUTZ
+    - PFLANZENSCHUTZMITTEL
+    - BODENBEARBEITUNG
+    - ERNTE
+    - ERTRAG
+    - PROBENAHME_PFLANZEN
+    - PFLANZENLABORWERTE
+    - PROBENAHME_BODEN
+    - BODENLABORWERTE
+    - KLIMADATEN
+    
+  mappings: null 
+
+
+# ================================================================
+# ICASA Output Model
+# ================================================================
+
+icasa:
+  master_key: "experiment"
+  key_source_table: "GENERAL"
+  design_keys:
+    experiment: "experiment_id"
+    year: "experiment_year"
+    treatment: "treatment_number"
+    plot: "plot_id"
+  shared_tables:
+    - PROFILE_METADATA
+    - SOIL_GENERAL
+    - PROFILE_METADATA
+    - SOIL_PROFILE
+    - WEATHER_GENERAL
+    - STATION_METADATA
+    - WEATHER_DAILY
+    - WEATHER_GENER_PARMS
+  data_tables:
+    - GENERAL
+    - PERSONS
+    - INSTITUTIONS
+    - DOCUMENTS
+    - TREATMENTS
+    - GENOTYPES
+    - FIELDS
+    - PLANTINGS
+    - IRRIGATIONS
+    - FERTILIZERS
+    - ORGANIC_MATERIALS
+    - CHEMICALS
+    - TILLAGE
+    - HARVESTS
+    - SUMMARY
+    - TIME_SERIES
+  dict_source:
+    type: "url_fetch_icasa"
+    path: "https://raw.githubusercontent.com/DSSAT/ICASA-Dictionary/main/CSV/"  
+    
+  # --- Properties for when this model is an OUTPUT ---
+  mappings:
+    "dssat": "map_dssat_icasa.yaml"
+    "icasa-agro": "map_icasaAgro_icasa.yaml"
+    "bonares-lte_de": "map_bonares_icasa.yaml"
+    "nasa-power": "map_nasapower_icasa.yaml"
+    "user": "map_custom.yaml"
+
+
+# ================================================================
+# ICASA-Agronomy representation (Input model)
+# ================================================================
+
+icasa-agro:
+  master_key: "experiment"
+  key_source_table: "EXPERIMENTS"
+  design_keys:
+    experiment: "experiment_id"
+    year: "experiment_year"
+    treatment: "treatment_number"
+    plot: "plot_id"
+  shared_tables:
+    - FIELDS
+    - GENOTYPES
+    - SOILS
+    - WEATHER
+    - WEATHER_MONTHLY
+    - WEATHER_DAILY
+  data_tables:
+    - EXPERIMENTS
+    - INSTITUTIONS
+    - PERSONS
+    - DOCUMENTS
+    - TREATMENTS
+    - CROP_SEASON
+    - TILLAGE
+    - TILLAGE_EVENTS
+    - CROP_RESIDUES
+    - PLANTINGS
+    - ORGANIC_MATERIALS
+    - ORGANIC_MATERIAL_APPLICS
+    - FERTILIZERS
+    - FERTILIZER_APPLICS
+    - IRRIGATIONS
+    - IRRIGATION_APPLICATIONS
+    - CHEMICALS
+    - CHEMICAL_APPLICS
+    - MULCHES
+    - ENVIRON_MODIFICATIONS
+    - ENVIRON_MODIF_LEVELS
+    - HARVESTS
+    - HARVEST_EVENTS
+    - TREATMENTS
+    - MANAGEMENTS
+    - PLOT_LAYOUT
+    - PLOTS
+    - PLOT_SETUP
+    - PLANT_DATA
+    - SOIL_DATA
+    - ENV_DATA
+    - PLANT_SM_GROWTH
+    - PLANT_SM_DEV
+    - PLANT_SM_NUTRIENTS
+    - PLANT_TS_GROWTH_DEV
+    - PLANT_TS_NUTRIENTS
+    - PLANT_TS_PESTS_DISEASES
+    - SOIL_LYR_PHYSICAL
+    - SOIL_LYR_CHEMICAL
+    - SOIL_LYR_TEMPERATURE
+    - SOIL_LYR_NPK
+    - SOIL_LYR_NUTRIENTS
+    - SOIL_LYR_NITROGEN
+    - SOIL_LYR_PHOSPHORUS
+    - SOIL_LYR_ORGMATTER
+    - SOIL_LYR_CARBON
+    - SOIL_LYR_WATER
+    - SOIL_LYR_ROOTS
+    - ENV_SM_WATER_DYNAMICS
+    - ENV_TS_WATER_DYNAMICS
+    - ENV_TS_PLANT_SOIL_ATMOS
+  dict_source: null
+
+
+# ================================================================
+# DSSAT Output Model
+# ================================================================
+
+dssat:
+  master_key: "experiment"
+  key_source_table: "GENERAL"
+  design_keys:
+    experiment: "EXP_ID"
+    year: "EXP_YEAR"
+    treatment: "TRTNO"
+    plot: "PLTID"
+  shared_tables:
+    - WEATHER_METADATA
+    - WEATHER_DAILY
+    - SOIL_META
+    - SOIL_GENERAL
+    - SOIL_LAYERS
+  data_tables:
+    - GENERAL
+    - TREATMENTS
+    - CULTIVARS
+    - FIELDS
+    - INITIAL_CONDITIONS
+    - ENVIRONMENT_MODIFICATIONS
+    - PLANTING_DETAILS
+    - IRRIGATION
+    - FERTILIZERS
+    - RESIDUES
+    - CHEMICALS
+    - TILLAGE
+    - HARVEST
+    - SIMULATION_CONTROLS
+  dict_source: null
+    
+  # --- Properties for when this model is an OUTPUT ---
+  mappings:
+    "icasa": "map_icasa_dssat.yaml"
+    
+
+# ================================================================
+# NASA POWER
+# ================================================================
+
+nasa-power:
+  master_key: none
+  data_tables:
+    - WEATHER_DAILY
+    - WEATHER_HOURLY  # Add as mapping evolve
+  dict_source: null
+    
+  # --- Properties for when this model is an OUTPUT ---
+  # mappings:
+    
+
+# ================================================================
+# Custom SensorThings API data models
+# ================================================================
+
+user:
+  master_key: none
+  design_keys:
+    datastream: "Datastream.id"
+  data_tables:
+    - METADATA  # rename
+    - DATASTREAM
+    - CEREAL_PHENOLOGY
+  dict_source: null
+    
+  # --- Properties for when this model is an OUTPUT ---
+  # mappings:
+

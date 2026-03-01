@@ -1,0 +1,1281 @@
+"experiment_id","experiment_year","fertilizer_level","fertilization_date","fertilizer_material","fertilizer_total_amount","N_in_applied_fertilizer","phosphorus_applied_fert","fertilizer_K_applied","Mg_in_applied_fertilizer","Ca_in_applied_fertilizer","S_in_applied_fertilizer","B_in_applied_fertilizer","Zn_in_applied_fertilizer","Mn_in_applied_fertilizer","Fe_in_applied_fertilizer","fertilizer_applic_method","fertiliz_applic_comment"
+"LTFE_Duernast",2015,12801,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12802,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12803,"2015-04-08","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12804,"2015-04-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12805,"2015-04-08","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12806,"2015-04-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12807,"2015-04-08","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12808,"2015-04-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12809,"2015-04-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12810,"2015-04-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12811,"2015-04-08","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12812,"2015-04-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12813,"2015-04-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12814,"2015-04-08","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12815,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12816,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12817,"2015-04-08","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12818,"2015-04-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12819,"2015-04-08","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12820,"2015-04-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12821,"2015-04-08","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12822,"2015-04-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12823,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12824,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12825,"2015-04-08","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12826,"2015-04-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12827,"2015-04-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12828,"2015-04-08","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12829,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12830,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12831,"2015-04-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12832,"2015-04-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12833,"2015-04-08","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12834,"2015-04-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12835,"2015-04-08","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12836,"2015-04-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12837,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12838,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12839,"2015-04-08","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12840,"2015-04-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12841,"2015-04-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12842,"2015-04-08","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12843,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12844,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12845,"2015-04-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12846,"2015-04-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12847,"2015-04-08","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12848,"2015-04-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12849,"2015-04-08","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12850,"2015-04-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12851,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12852,"2015-04-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12853,"2015-04-08","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12854,"2015-04-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12855,"2015-04-08","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12856,"2015-04-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12857,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12858,"2015-04-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12859,"2015-04-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12860,"2015-04-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12861,"2015-04-08","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12862,"2015-04-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12863,"2015-04-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12864,"2015-04-08","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12865,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12866,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12867,"2015-06-01","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12868,"2015-06-01","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12869,"2015-06-01","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12870,"2015-06-01","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12871,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12872,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12873,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12874,"2015-06-01","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12875,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12876,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12877,"2015-06-01","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12878,"2015-06-01","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12879,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12880,"2015-06-01","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12881,"2015-06-01","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12882,"2015-06-01","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12883,"2015-06-01","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12884,"2015-06-01","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12885,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12886,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12887,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12888,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12889,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12890,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12891,"2015-06-01","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12892,"2015-06-01","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12893,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12894,"2015-06-01","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12895,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12896,"2015-06-01","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12897,"2015-06-01","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12898,"2015-06-01","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12899,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12900,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12901,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12902,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12903,"2015-06-01","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12904,"2015-06-01","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12905,"2015-06-01","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12906,"2015-06-01","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12907,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12908,"2015-06-01","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12909,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12910,"2015-06-01","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12911,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12912,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12913,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12914,"2015-06-01","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2015,12915,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12916,"2015-06-01",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12917,"2015-06-01","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12918,"2015-06-01","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12919,"2015-06-01","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12920,"2015-06-01","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12921,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12922,"2015-06-01","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12923,"2015-06-01","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12924,"2015-06-01","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12925,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12926,"2015-06-01","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12927,"2015-06-01","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12928,"2015-06-01","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12929,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12930,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12931,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12932,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12933,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12934,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12935,"2015-07-02","FE011",153.8,40,0,0,0,13.2275,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12936,"2015-07-02","FE011",230.8,60,0,0,0,19.8055,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12937,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12938,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12939,"2015-07-02","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12940,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12941,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12942,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12943,"2015-07-02","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12944,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12945,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12946,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12947,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12948,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12949,"2015-07-02","FE011",153.8,40,0,0,0,13.2275,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12950,"2015-07-02","FE011",230.8,60,0,0,0,19.8055,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12951,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12952,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12953,"2015-07-02","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12954,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12955,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12956,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12957,"2015-07-02","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12958,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12959,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12960,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12961,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12962,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12963,"2015-07-02","FE011",153.8,40,0,0,0,13.2275,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12964,"2015-07-02","FE011",230.8,60,0,0,0,19.8055,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12965,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12966,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12967,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12968,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12969,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12970,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12971,"2015-07-02","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12972,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12973,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12974,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12975,"2015-07-02","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12976,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12977,"2015-07-02","FE011",153.8,40,0,0,0,13.2275,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12978,"2015-07-02","FE011",230.8,60,0,0,0,19.8055,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12979,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12980,"2015-07-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12981,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12982,"2015-07-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12983,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12984,"2015-07-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12985,"2015-07-02","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12986,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12987,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12988,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12989,"2015-07-02","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12990,"2015-07-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2015,12991,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2015,12992,"2015-07-02","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,12993,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,12994,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,12995,"2016-05-19","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,12996,"2016-05-19","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,12997,"2016-05-19","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,12998,"2016-05-19","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,12999,"2016-05-19","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13000,"2016-05-19","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13001,"2016-05-19","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13002,"2016-05-19","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13003,"2016-05-19","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13004,"2016-05-19","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13005,"2016-05-19","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13006,"2016-05-19","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13007,"2016-05-19","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13008,"2016-05-19","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13009,"2016-05-19","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13010,"2016-05-19","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13011,"2016-05-19","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13012,"2016-05-19","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13013,"2016-05-19","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13014,"2016-05-19","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13015,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13016,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13017,"2016-05-19","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13018,"2016-05-19","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13019,"2016-05-19","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13020,"2016-05-19","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13021,"2016-05-19","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13022,"2016-05-19","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13023,"2016-05-19","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13024,"2016-05-19","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13025,"2016-05-19","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13026,"2016-05-19","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13027,"2016-05-19","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13028,"2016-05-19","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13029,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13030,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13031,"2016-05-19","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13032,"2016-05-19","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13033,"2016-05-19","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13034,"2016-05-19","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13035,"2016-05-19","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13036,"2016-05-19","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13037,"2016-05-19","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13038,"2016-05-19","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13039,"2016-05-19","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13040,"2016-05-19","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13041,"2016-05-19","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13042,"2016-05-19","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13043,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13044,"2016-05-19",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13045,"2016-05-19","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13046,"2016-05-19","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13047,"2016-05-19","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13048,"2016-05-19","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13049,"2016-05-19","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13050,"2016-05-19","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13051,"2016-05-19","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13052,"2016-05-19","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13053,"2016-05-19","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13054,"2016-05-19","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13055,"2016-05-19","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13056,"2016-05-19","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13057,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13058,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13059,"2016-06-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13060,"2016-06-02","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13061,"2016-06-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13062,"2016-06-02","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13063,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13064,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13065,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13066,"2016-06-02","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13067,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13068,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13069,"2016-06-02","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13070,"2016-06-02","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13071,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13072,"2016-06-02","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13073,"2016-06-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13074,"2016-06-02","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13075,"2016-06-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13076,"2016-06-02","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13077,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13078,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13079,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13080,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13081,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13082,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13083,"2016-06-02","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13084,"2016-06-02","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13085,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13086,"2016-06-02","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13087,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13088,"2016-06-02","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13089,"2016-06-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13090,"2016-06-02","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13091,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13092,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13093,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13094,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13095,"2016-06-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13096,"2016-06-02","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13097,"2016-06-02","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13098,"2016-06-02","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13099,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13100,"2016-06-02","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13101,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13102,"2016-06-02","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13103,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13104,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13105,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13106,"2016-06-02","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2016,13107,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13108,"2016-06-02",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13109,"2016-06-02","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13110,"2016-06-02","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13111,"2016-06-02","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13112,"2016-06-02","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13113,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13114,"2016-06-02","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13115,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13116,"2016-06-02","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13117,"2016-06-02","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13118,"2016-06-02","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2016,13119,"2016-06-02","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2016,13120,"2016-06-02","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13121,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13122,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13123,"2017-02-04","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13124,"2017-02-04","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13125,"2017-02-04","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13126,"2017-02-04","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13127,"2017-02-04","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13128,"2017-02-04","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13129,"2017-02-04","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13130,"2017-02-04","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13131,"2017-02-04","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13132,"2017-02-04","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13133,"2017-02-04","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13134,"2017-02-04","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13135,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13136,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13137,"2017-02-04","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13138,"2017-02-04","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13139,"2017-02-04","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13140,"2017-02-04","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13141,"2017-02-04","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13142,"2017-02-04","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13143,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13144,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13145,"2017-02-04","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13146,"2017-02-04","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13147,"2017-02-04","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13148,"2017-02-04","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13149,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13150,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13151,"2017-02-04","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13152,"2017-02-04","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13153,"2017-02-04","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13154,"2017-02-04","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13155,"2017-02-04","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13156,"2017-02-04","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13157,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13158,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13159,"2017-02-04","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13160,"2017-02-04","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13161,"2017-02-04","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13162,"2017-02-04","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13163,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13164,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13165,"2017-02-04","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13166,"2017-02-04","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13167,"2017-02-04","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13168,"2017-02-04","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13169,"2017-02-04","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13170,"2017-02-04","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13171,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13172,"2017-02-04",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13173,"2017-02-04","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13174,"2017-02-04","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13175,"2017-02-04","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13176,"2017-02-04","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13177,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13178,"2017-02-04","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13179,"2017-02-04","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13180,"2017-02-04","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13181,"2017-02-04","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13182,"2017-02-04","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13183,"2017-02-04","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13184,"2017-02-04","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13185,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13186,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13187,"2017-05-24","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13188,"2017-05-24","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13189,"2017-05-24","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13190,"2017-05-24","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13191,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13192,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13193,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13194,"2017-05-24","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13195,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13196,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13197,"2017-05-24","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13198,"2017-05-24","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13199,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13200,"2017-05-24","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13201,"2017-05-24","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13202,"2017-05-24","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13203,"2017-05-24","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13204,"2017-05-24","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13205,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13206,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13207,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13208,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13209,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13210,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13211,"2017-05-24","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13212,"2017-05-24","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13213,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13214,"2017-05-24","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13215,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13216,"2017-05-24","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13217,"2017-05-24","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13218,"2017-05-24","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13219,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13220,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13221,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13222,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13223,"2017-05-24","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13224,"2017-05-24","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13225,"2017-05-24","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13226,"2017-05-24","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13227,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13228,"2017-05-24","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13229,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13230,"2017-05-24","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13231,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13232,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13233,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13234,"2017-05-24","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2017,13235,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13236,"2017-05-24",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13237,"2017-05-24","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13238,"2017-05-24","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13239,"2017-05-24","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13240,"2017-05-24","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13241,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13242,"2017-05-24","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13243,"2017-05-24","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13244,"2017-05-24","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13245,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13246,"2017-05-24","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13247,"2017-05-24","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13248,"2017-05-24","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13249,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13250,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13251,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13252,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13253,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13254,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13255,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13256,"2017-06-13","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13257,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13258,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13259,"2017-06-13","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13260,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13261,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13262,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13263,"2017-06-13","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13264,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13265,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13266,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13267,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13268,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13269,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13270,"2017-06-13","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13271,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13272,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13273,"2017-06-13","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13274,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13275,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13276,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13277,"2017-06-13","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13278,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13279,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13280,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13281,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13282,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13283,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13284,"2017-06-13","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13285,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13286,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13287,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13288,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13289,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13290,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13291,"2017-06-13","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13292,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13293,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13294,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13295,"2017-06-13","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13296,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13297,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13298,"2017-06-13","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13299,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13300,"2017-06-13",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13301,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13302,"2017-06-13","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13303,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13304,"2017-06-13","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13305,"2017-06-13","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13306,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13307,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13308,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13309,"2017-06-13","FE050",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13310,"2017-06-13","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2017,13311,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2017,13312,"2017-06-22","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13313,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13314,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13315,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13316,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13317,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13318,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13319,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13320,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13321,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13322,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13323,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13324,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13325,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13326,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13327,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13328,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13329,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13330,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13331,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13332,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13333,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13334,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13335,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13336,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13337,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13338,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13339,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13340,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13341,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13342,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13343,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13344,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13345,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13346,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13347,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13348,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13349,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13350,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13351,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13352,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13353,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13354,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13355,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13356,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13357,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13358,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13359,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13360,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13361,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13362,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13363,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13364,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13365,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13366,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13367,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13368,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13369,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13370,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13371,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13372,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13373,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13374,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13375,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13376,"2018-04-25","FE014",195.7,0,39.24,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13377,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13378,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13379,"2018-05-30","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13380,"2018-05-30","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13381,"2018-05-30","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13382,"2018-05-30","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13383,"2018-05-30","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13384,"2018-05-30","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13385,"2018-05-30","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13386,"2018-05-30","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13387,"2018-05-30","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13388,"2018-05-30","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13389,"2018-05-30","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13390,"2018-05-30","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13391,"2018-05-30","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13392,"2018-05-30","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13393,"2018-05-30","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13394,"2018-05-30","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13395,"2018-05-30","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13396,"2018-05-30","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13397,"2018-05-30","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13398,"2018-05-30","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13399,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13400,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13401,"2018-05-30","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13402,"2018-05-30","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13403,"2018-05-30","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13404,"2018-05-30","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13405,"2018-05-30","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13406,"2018-05-30","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13407,"2018-05-30","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13408,"2018-05-30","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13409,"2018-05-30","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13410,"2018-05-30","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13411,"2018-05-30","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13412,"2018-05-30","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13413,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13414,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13415,"2018-05-30","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13416,"2018-05-30","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13417,"2018-05-30","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13418,"2018-05-30","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13419,"2018-05-30","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13420,"2018-05-30","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13421,"2018-05-30","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13422,"2018-05-30","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13423,"2018-05-30","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13424,"2018-05-30","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13425,"2018-05-30","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13426,"2018-05-30","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13427,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13428,"2018-05-30",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13429,"2018-05-30","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13430,"2018-05-30","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13431,"2018-05-30","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13432,"2018-05-30","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13433,"2018-05-30","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13434,"2018-05-30","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13435,"2018-05-30","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13436,"2018-05-30","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13437,"2018-05-30","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13438,"2018-05-30","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13439,"2018-05-30","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13440,"2018-05-30","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13441,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13442,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13443,"2018-06-12","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13444,"2018-06-12","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13445,"2018-06-12","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13446,"2018-06-12","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13447,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13448,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13449,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13450,"2018-06-12","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13451,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13452,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13453,"2018-06-14","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13454,"2018-06-14","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13455,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13456,"2018-06-12","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13457,"2018-06-12","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13458,"2018-06-12","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13459,"2018-06-12","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13460,"2018-06-12","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13461,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13462,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13463,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13464,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13465,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13466,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13467,"2018-06-14","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13468,"2018-06-14","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13469,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13470,"2018-06-12","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13471,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13472,"2018-06-12","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13473,"2018-06-12","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13474,"2018-06-12","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13475,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13476,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13477,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13478,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13479,"2018-06-12","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13480,"2018-06-12","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13481,"2018-06-14","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13482,"2018-06-14","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13483,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13484,"2018-06-12","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13485,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13486,"2018-06-12","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13487,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13488,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13489,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13490,"2018-06-12","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2018,13491,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13492,"2018-06-12",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13493,"2018-06-12","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13494,"2018-06-12","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13495,"2018-06-12","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13496,"2018-06-12","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13497,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13498,"2018-06-12","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13499,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13500,"2018-06-12","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13501,"2018-06-12","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13502,"2018-06-12","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2018,13503,"2018-06-14","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2018,13504,"2018-06-14","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13505,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13506,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13507,"2019-03-27","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13508,"2019-03-27","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13509,"2019-03-27","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13510,"2019-03-27","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13511,"2019-03-27","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13512,"2019-03-27","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13513,"2019-03-27","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13514,"2019-03-27","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13515,"2019-03-27","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13516,"2019-03-27","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13517,"2019-03-27","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13518,"2019-03-27","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13519,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13520,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13521,"2019-03-27","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13522,"2019-03-27","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13523,"2019-03-27","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13524,"2019-03-27","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13525,"2019-03-27","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13526,"2019-03-27","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13527,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13528,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13529,"2019-03-27","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13530,"2019-03-27","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13531,"2019-03-27","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13532,"2019-03-27","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13533,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13534,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13535,"2019-03-27","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13536,"2019-03-27","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13537,"2019-03-27","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13538,"2019-03-27","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13539,"2019-03-27","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13540,"2019-03-27","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13541,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13542,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13543,"2019-03-27","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13544,"2019-03-27","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13545,"2019-03-27","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13546,"2019-03-27","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13547,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13548,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13549,"2019-03-27","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13550,"2019-03-27","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13551,"2019-03-27","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13552,"2019-03-27","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13553,"2019-03-27","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13554,"2019-03-27","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13555,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13556,"2019-03-27",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13557,"2019-03-27","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13558,"2019-03-27","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13559,"2019-03-27","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13560,"2019-03-27","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13561,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13562,"2019-03-27","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13563,"2019-03-27","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13564,"2019-03-27","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13565,"2019-03-27","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13566,"2019-03-27","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13567,"2019-03-27","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13568,"2019-03-27","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13569,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13570,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13571,"2019-05-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13572,"2019-05-14","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13573,"2019-05-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13574,"2019-05-14","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13575,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13576,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13577,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13578,"2019-05-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13579,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13580,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13581,"2019-05-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13582,"2019-05-14","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13583,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13584,"2019-05-14","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13585,"2019-05-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13586,"2019-05-14","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13587,"2019-05-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13588,"2019-05-14","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13589,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13590,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13591,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13592,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13593,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13594,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13595,"2019-05-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13596,"2019-05-14","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13597,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13598,"2019-05-14","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13599,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13600,"2019-05-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13601,"2019-05-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13602,"2019-05-14","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13603,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13604,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13605,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13606,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13607,"2019-05-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13608,"2019-05-14","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13609,"2019-05-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13610,"2019-05-14","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13611,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13612,"2019-05-14","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13613,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13614,"2019-05-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13615,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13616,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13617,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13618,"2019-05-14","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2019,13619,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13620,"2019-05-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13621,"2019-05-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13622,"2019-05-14","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13623,"2019-05-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13624,"2019-05-14","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13625,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13626,"2019-05-14","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13627,"2019-05-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13628,"2019-05-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13629,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13630,"2019-05-14","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13631,"2019-05-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13632,"2019-05-14","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13633,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13634,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13635,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13636,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13637,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13638,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13639,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13640,"2019-06-06","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13641,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13642,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13643,"2019-06-06","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13644,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13645,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13646,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13647,"2019-06-06","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13648,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13649,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13650,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13651,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13652,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13653,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13654,"2019-06-06","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13655,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13656,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13657,"2019-06-06","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13658,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13659,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13660,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13661,"2019-06-06","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13662,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13663,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13664,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13665,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13666,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13667,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13668,"2019-06-06","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13669,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13670,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13671,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13672,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13673,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13674,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13675,"2019-06-06","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13676,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13677,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13678,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13679,"2019-06-06","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13680,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13681,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13682,"2019-06-06","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13683,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13684,"2019-06-06",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13685,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13686,"2019-06-06","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13687,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13688,"2019-06-06","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13689,"2019-06-06","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13690,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13691,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13692,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13693,"2019-06-06","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13694,"2019-06-06","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13695,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13696,"2019-06-06","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2019,13697,"2019-03-21","FE900",500,0,0,166,18.09,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13698,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13699,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13700,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13701,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13702,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13703,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13704,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13705,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13706,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13707,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13708,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13709,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13710,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13711,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13712,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13713,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13714,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13715,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13716,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13717,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13718,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13719,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13720,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13721,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13722,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13723,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13724,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13725,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13726,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13727,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13728,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13729,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13730,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13731,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13732,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13733,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13734,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13735,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13736,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13737,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13738,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13739,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13740,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13741,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13742,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13743,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13744,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13745,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13746,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13747,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13748,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13749,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13750,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13751,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13752,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13753,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13754,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13755,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13756,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13757,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13758,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13759,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2019,13760,"2019-03-21","FE900",500,0,0,166,0,0,2500,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13761,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13762,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13763,"2021-03-29","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13764,"2021-03-29","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13765,"2021-03-29","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13766,"2021-03-29","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13767,"2021-03-29","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13768,"2021-03-29","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13769,"2021-03-29","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13770,"2021-03-29","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13771,"2021-03-29","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13772,"2021-03-29","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13773,"2021-03-29","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13774,"2021-03-29","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13775,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13776,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13777,"2021-03-29","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13778,"2021-03-29","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13779,"2021-03-29","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13780,"2021-03-29","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13781,"2021-03-29","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13782,"2021-03-29","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13783,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13784,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13785,"2021-03-29","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13786,"2021-03-29","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13787,"2021-03-29","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13788,"2021-03-29","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13789,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13790,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13791,"2021-03-29","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13792,"2021-03-29","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13793,"2021-03-29","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13794,"2021-03-29","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13795,"2021-03-29","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13796,"2021-03-29","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13797,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13798,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13799,"2021-03-29","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13800,"2021-03-29","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13801,"2021-03-29","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13802,"2021-03-29","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13803,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13804,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13805,"2021-03-29","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13806,"2021-03-29","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13807,"2021-03-29","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13808,"2021-03-29","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13809,"2021-03-29","FE900",307.7,80,0,0,0,0,40,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13810,"2021-03-29","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13811,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13812,"2021-03-29",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13813,"2021-03-29","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13814,"2021-03-29","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13815,"2021-03-29","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13816,"2021-03-29","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13817,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13818,"2021-03-29","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13819,"2021-03-29","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13820,"2021-03-29","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13821,"2021-03-29","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13822,"2021-03-29","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13823,"2021-03-29","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13824,"2021-03-29","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13825,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13826,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13827,"2021-04-26","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13828,"2021-04-26","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13829,"2021-04-26","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13830,"2021-04-26","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13831,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13832,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13833,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13834,"2021-04-26","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13835,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13836,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13837,"2021-04-26","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13838,"2021-04-26","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13839,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13840,"2021-04-26","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13841,"2021-04-26","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13842,"2021-04-26","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13843,"2021-04-26","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13844,"2021-04-26","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13845,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13846,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13847,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13848,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13849,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13850,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13851,"2021-04-26","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13852,"2021-04-26","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13853,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13854,"2021-04-26","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13855,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13856,"2021-04-26","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13857,"2021-04-26","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13858,"2021-04-26","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13859,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13860,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13861,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13862,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13863,"2021-04-26","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13864,"2021-04-26","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13865,"2021-04-26","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13866,"2021-04-26","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13867,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13868,"2021-04-26","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13869,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13870,"2021-04-26","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13871,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13872,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13873,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13874,"2021-04-26","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2021,13875,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13876,"2021-04-26",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13877,"2021-04-26","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13878,"2021-04-26","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13879,"2021-04-26","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13880,"2021-04-26","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13881,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13882,"2021-04-26","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13883,"2021-04-26","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13884,"2021-04-26","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13885,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13886,"2021-04-26","FE050",300,60,0,0,0,117.975,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13887,"2021-04-26","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13888,"2021-04-26","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13889,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13890,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13891,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13892,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13893,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13894,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13895,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13896,"2021-06-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13897,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13898,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13899,"2021-06-14","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13900,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13901,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13902,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13903,"2021-06-14","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13904,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13905,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13906,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13907,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13908,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13909,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13910,"2021-06-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13911,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13912,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13913,"2021-06-14","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13914,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13915,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13916,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13917,"2021-06-14","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13918,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13919,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13920,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13921,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13922,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13923,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13924,"2021-06-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13925,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13926,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13927,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13928,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13929,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13930,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13931,"2021-06-14","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13932,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13933,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13934,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13935,"2021-06-14","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13936,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13937,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13938,"2021-06-14","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13939,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13940,"2021-06-14",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13941,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13942,"2021-06-14","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13943,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13944,"2021-06-14","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13945,"2021-06-14","FE011",74.1,20,0,0,0,6.3635,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13946,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13947,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13948,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13949,"2021-06-14","FE011",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13950,"2021-06-14","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2021,13951,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2021,13952,"2021-06-14","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13953,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13954,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13955,"2022-06-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13956,"2022-06-08","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13957,"2022-06-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13958,"2022-06-08","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13959,"2022-06-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,13960,"2022-06-08","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,13961,"2022-06-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13962,"2022-06-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13963,"2022-06-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13964,"2022-06-08","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13965,"2022-06-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13966,"2022-06-08","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13967,"2022-06-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13968,"2022-06-08","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13969,"2022-06-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13970,"2022-06-08","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13971,"2022-06-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13972,"2022-06-08","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13973,"2022-06-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,13974,"2022-06-08","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,13975,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13976,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13977,"2022-06-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13978,"2022-06-08","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13979,"2022-06-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13980,"2022-06-08","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13981,"2022-06-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13982,"2022-06-08","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13983,"2022-06-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13984,"2022-06-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13985,"2022-06-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13986,"2022-06-08","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13987,"2022-06-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,13988,"2022-06-08","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,13989,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13990,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13991,"2022-06-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13992,"2022-06-08","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13993,"2022-06-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13994,"2022-06-08","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,13995,"2022-06-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13996,"2022-06-08","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13997,"2022-06-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13998,"2022-06-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,13999,"2022-06-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14000,"2022-06-08","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14001,"2022-06-08","FE900",461.5,120,0,0,0,0,60,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14002,"2022-06-08","FE900",692.3,180,0,0,0,0,90,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14003,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14004,"2022-06-08",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14005,"2022-06-08","FE005",173.9,80,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14006,"2022-06-08","FE005",260.9,120,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14007,"2022-06-08","FE060",307.7,80,0,0,0,0,40,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14008,"2022-06-08","FE060",461.5,120,0,0,0,0,60,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14009,"2022-06-08","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14010,"2022-06-08","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14011,"2022-06-08","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14012,"2022-06-08","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14013,"2022-06-08","FE050",400,80,0,0,0,157.3,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14014,"2022-06-08","FE050",500,100,0,0,0,196.625,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14015,"2022-06-08","FE010",133.3,40,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14016,"2022-06-08","FE010",200,60,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14017,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14018,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14019,"2022-06-21","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14020,"2022-06-21","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14021,"2022-06-21","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14022,"2022-06-21","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14023,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14024,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14025,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14026,"2022-06-21","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14027,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14028,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14029,"2022-06-21","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14030,"2022-06-21","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14031,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14032,"2022-06-21","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14033,"2022-06-21","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14034,"2022-06-21","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14035,"2022-06-21","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14036,"2022-06-21","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14037,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14038,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14039,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14040,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14041,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14042,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14043,"2022-06-21","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14044,"2022-06-21","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14045,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14046,"2022-06-21","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14047,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14048,"2022-06-21","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14049,"2022-06-21","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14050,"2022-06-21","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14051,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14052,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14053,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14054,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14055,"2022-06-21","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14056,"2022-06-21","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14057,"2022-06-21","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14058,"2022-06-21","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14059,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14060,"2022-06-21","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14061,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14062,"2022-06-21","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14063,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14064,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14065,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14066,"2022-06-21","FE900",0,0,0,0,0,0,0,0,0,0,0,NA,"ENTEC® 26 (+13S); 26% Gesamtstickstoff; 7,5% NO3-Nitratstickstoff; 18,5% NH4-Ammoniumstickstoff; 13% S Gesamt-Schwefel; 32,5% SO3 Schwefeltrioxid; 0,18% DMPP; ENTEC® 26 enthält Nitrat- und Ammoniumstickstoff und zusätzlich den Nitrifikationsinhibitor DMPP"
+"LTFE_Duernast",2022,14067,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14068,"2022-06-21",NA,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14069,"2022-06-21","FE005",87,40,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14070,"2022-06-21","FE005",130.4,60,0,0,0,0,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14071,"2022-06-21","FE060",153.8,40,0,0,0,0,20,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14072,"2022-06-21","FE060",230.8,60,0,0,0,0,30,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14073,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14074,"2022-06-21","FE011",222.2,60,0,0,0,19.0905,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14075,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14076,"2022-06-21","FE011",444.4,120,0,0,0,38.1095,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14077,"2022-06-21","FE011",148.1,40,0,0,0,12.727,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14078,"2022-06-21","FE011",296.3,80,0,0,0,25.454,0,0,0,0,0,NA,NA
+"LTFE_Duernast",2022,14079,"2022-06-21","FE010",266.7,80,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."
+"LTFE_Duernast",2022,14080,"2022-06-21","FE010",400,120,0,0,0,0,0,0,0,0,0,NA,"Ammonium-Nitrat-Harnstoff-Lösung (Harnstoff-Dünger; flüssig; nicht stabilisiert); AHL (oder auch UAN = Urea Ammonium Nitrate) ist eine farblose flüssige Mischung aus Ammoniumnitrat, Harnstoff und Wasser.; AHL mit 28 Gewichtsprozenten Stickstoff (N) setzt sich zusammen aus 7 % Nitratstickstoff, 7 % Ammoniumstickstoff und 14 % Amidstickstoff (aus dem Harnstoff)."

@@ -1,0 +1,7 @@
+"soil_profile_ID","soil_layer_base_depth","master_horizon","soil_clay_fraction","soil_silt_fraction","soil_coarse_fraction","soil_organic_C_perc_layr","soil_pH_in_buffer","soil_pH_in_water","soil_bulk_density_moist","soil_water_lower_limit","soil_wat_drned_upper_lim","soil_water_saturated","sat_hydraul_conductivity","cation_exchange_capacity","soil_organic_N_conc","soil_adsorption_coef","root_growth_factor_soil"
+"DE02157980",5,"A",17.68,39.98,NA,3.19,NA,6.2,1.29,0.108,0.236,0.391,1.06,21.2,0.12,NA,1
+"DE02157980",15,"A",19.39,39.18,NA,2.7,NA,6.28,1.31,0.118,0.247,0.394,0.9,18.5,0.09,NA,0.85
+"DE02157980",30,"AB",21.9,38.05,NA,2.06,NA,6.37,1.34,0.133,0.262,0.399,0.71,18,0.07,NA,0.7
+"DE02157980",60,"BA",24.26,36.82,NA,1.32,NA,6.48,1.39,0.147,0.276,0.403,0.57,18.9,0.06,NA,0.5
+"DE02157980",100,"B",24.1,36.24,NA,0.77,NA,6.62,1.45,0.146,0.274,0.402,0.58,19,0.05,NA,0.38
+"DE02157980",200,"BC",22.52,35.91,NA,0.44,NA,6.8,1.51,0.136,0.262,0.398,0.7,18.9,0.05,NA,0.05

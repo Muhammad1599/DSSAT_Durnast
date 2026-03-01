@@ -1,0 +1,599 @@
+*SOIL INORGANIC N BALANCE
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:20
+
+*RUN   1        : 1                         WHAPS048 TUDU1501    1
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  1   : 1                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              129.72
+!   Soil NH4                                        12.98                2.84
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   120.00
+!   Mineralized N                                   67.07
+
+! N subtractions:
+!   N immobilized                                                        2.78
+!   N leached                                                            5.84
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 174.88
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.14
+!   N2 loss                                                              0.11
+!   NO loss                                                              0.47
+
+!   Total N balance                                316.82              316.82
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:20
+
+*RUN   2        : 2                         WHAPS048 TUDU1501    2
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  2   : 2                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              129.99
+!   Soil NH4                                        12.98                2.83
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   120.00
+!   Mineralized N                                   67.31
+
+! N subtractions:
+!   N immobilized                                                        2.78
+!   N leached                                                            5.85
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 174.94
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.12
+!   N2 loss                                                              0.12
+!   NO loss                                                              0.38
+
+!   Total N balance                                317.06              317.06
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:20
+
+*RUN   3        : 3                         WHAPS048 TUDU1501    3
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  3   : 3                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              127.43
+!   Soil NH4                                        12.98                3.20
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                    40.00
+!   Mineralized N                                   71.51
+
+! N subtractions:
+!   N immobilized                                                        2.54
+!   N leached                                                           10.54
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                  95.53
+!   NH3 loss                                                             1.62
+!   N2O loss                                                             0.07
+!   N2 loss                                                              0.08
+!   NO loss                                                              0.19
+
+!   Total N balance                                241.26              241.26
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:20
+
+*RUN   4        : 4                         WHAPS048 TUDU1501    4
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  4   : 4                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              128.72
+!   Soil NH4                                        12.98                2.69
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   120.00
+!   Mineralized N                                   67.17
+
+! N subtractions:
+!   N immobilized                                                        2.78
+!   N leached                                                            5.78
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 174.23
+!   NH3 loss                                                             2.21
+!   N2O loss                                                             0.09
+!   N2 loss                                                              0.12
+!   NO loss                                                              0.27
+
+!   Total N balance                                316.92              316.92
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:20
+
+*RUN   5        : 5                         WHAPS048 TUDU1501    5
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  5   : 5                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              101.17
+!   Soil NH4                                        12.98                2.60
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   120.00
+!   Mineralized N                                   69.61
+
+! N subtractions:
+!   N immobilized                                                        2.80
+!   N leached                                                            4.85
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 205.15
+!   NH3 loss                                                             1.94
+!   N2O loss                                                             0.15
+!   N2 loss                                                              0.22
+!   NO loss                                                              0.42
+
+!   Total N balance                                319.37              319.37
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:20
+
+*RUN   6        : 6                         WHAPS048 TUDU1501    6
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  6   : 6                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              125.90
+!   Soil NH4                                        12.98                2.69
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   120.00
+!   Mineralized N                                   66.75
+
+! N subtractions:
+!   N immobilized                                                        2.78
+!   N leached                                                            5.89
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 171.00
+!   NH3 loss                                                             7.65
+!   N2O loss                                                             0.10
+!   N2 loss                                                              0.11
+!   NO loss                                                              0.34
+
+!   Total N balance                                316.50              316.50
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN   7        : 7                         WHAPS048 TUDU1501    7
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  7   : 7                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              109.51
+!   Soil NH4                                        12.98                2.63
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   120.00
+!   Mineralized N                                   69.20
+
+! N subtractions:
+!   N immobilized                                                        2.81
+!   N leached                                                            4.84
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 196.44
+!   NH3 loss                                                             2.10
+!   N2O loss                                                             0.11
+!   N2 loss                                                              0.22
+!   NO loss                                                              0.26
+
+!   Total N balance                                318.96              318.96
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN   8        : 8                         WHAPS048 TUDU1501    8
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  8   : 8                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              139.82
+!   Soil NH4                                        12.98                2.66
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   180.00
+!   Mineralized N                                   72.30
+
+! N subtractions:
+!   N immobilized                                                        2.81
+!   N leached                                                            3.57
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 231.79
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.26
+!   N2 loss                                                              0.37
+!   NO loss                                                              0.72
+
+!   Total N balance                                382.05              382.05
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN   9        : 9                         WHAPS048 TUDU1501    9
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT  9   : 9                         WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              140.02
+!   Soil NH4                                        12.98                2.65
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   180.00
+!   Mineralized N                                   72.57
+
+! N subtractions:
+!   N immobilized                                                        2.82
+!   N leached                                                            3.60
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 232.01
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.23
+!   N2 loss                                                              0.37
+!   NO loss                                                              0.58
+
+!   Total N balance                                382.33              382.33
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN  10        : 10                        WHAPS048 TUDU1501   10
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT 10   : 10                        WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              147.08
+!   Soil NH4                                        12.98                3.20
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                    60.00
+!   Mineralized N                                   71.50
+
+! N subtractions:
+!   N immobilized                                                        2.54
+!   N leached                                                           10.54
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                  95.80
+!   NH3 loss                                                             1.64
+!   N2O loss                                                             0.08
+!   N2 loss                                                              0.08
+!   NO loss                                                              0.24
+
+!   Total N balance                                261.26              261.26
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN  11        : 11                        WHAPS048 TUDU1501   11
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT 11   : 11                        WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              139.82
+!   Soil NH4                                        12.98                2.66
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   180.00
+!   Mineralized N                                   72.30
+
+! N subtractions:
+!   N immobilized                                                        2.81
+!   N leached                                                            3.57
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 231.79
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.26
+!   N2 loss                                                              0.37
+!   NO loss                                                              0.72
+
+!   Total N balance                                382.05              382.05
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN  12        : 12                        WHAPS048 TUDU1501   12
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT 12   : 12                        WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              138.82
+!   Soil NH4                                        12.98                2.50
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.04
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   180.00
+!   Mineralized N                                   72.47
+
+! N subtractions:
+!   N immobilized                                                        2.81
+!   N leached                                                            3.63
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 230.89
+!   NH3 loss                                                             2.29
+!   N2O loss                                                             0.24
+!   N2 loss                                                              0.37
+!   NO loss                                                              0.62
+
+!   Total N balance                                382.23              382.23
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:21
+
+*RUN  13        : 13                        WHAPS048 TUDU1501   13
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT 13   : 13                        WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              136.65
+!   Soil NH4                                        12.98                2.56
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   180.00
+!   Mineralized N                                   70.38
+
+! N subtractions:
+!   N immobilized                                                        2.82
+!   N leached                                                            4.33
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 218.85
+!   NH3 loss                                                            13.93
+!   N2O loss                                                             0.18
+!   N2 loss                                                              0.29
+!   NO loss                                                              0.48
+
+!   Total N balance                                380.14              380.14
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:22
+
+*RUN  14        : 14                        WHAPS048 TUDU1501   14
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT 14   : 14                        WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78              156.45
+!   Soil NH4                                        12.98                2.57
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                   180.00
+!   Mineralized N                                   70.07
+
+! N subtractions:
+!   N immobilized                                                        2.81
+!   N leached                                                            4.84
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 210.02
+!   NH3 loss                                                             2.30
+!   N2O loss                                                             0.14
+!   N2 loss                                                              0.24
+!   NO loss                                                              0.40
+
+!   Total N balance                                379.82              379.82
+!   Balance                                                            -0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  MAR 01, 2026 09:34:22
+
+*RUN  15        : 15                        WHAPS048 TUDU1501   15
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1501 WH
+ DATA PATH      :
+ TREATMENT 15   : 15                        WHAPS048
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                  15/077              15/237
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                       116.78               95.05
+!   Soil NH4                                        12.98                3.35
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.05
+!   Unreleased fert N                                                    0.00
+
+! N additions:
+!   Fertilizer N                                     0.00
+!   Mineralized N                                   70.75
+
+! N subtractions:
+!   N immobilized                                                        2.54
+!   N leached                                                           10.54
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                  88.75
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.05
+!   N2 loss                                                              0.08
+!   NO loss                                                              0.10
+
+!   Total N balance                                200.50              200.50
+!   Balance                                                             0.000

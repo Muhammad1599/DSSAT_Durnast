@@ -1,0 +1,12 @@
+# Temporary and large data
+**/temp/
+*.zip
+
+# R
+.Rhistory
+.RData
+renv/library/
+
+# OS
+.DS_Store
+Thumbs.db

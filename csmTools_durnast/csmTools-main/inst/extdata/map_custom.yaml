@@ -1,0 +1,245 @@
+# Custom SensorThings API to ICASA data map (v1.0.0)
+
+# =================================================================
+# DEFINITIONS & ANCHORS
+# =================================================================
+
+# definitions:
+  
+
+
+# =================================================================
+# MAPPING RULES
+# =================================================================
+
+rules:
+
+## --- WEATHER SENSORS
+
+  - mapping_uid: '1'
+    notes: "Builds an ICASA STATION metadata (pre-aggregation) from SensorThings API datastream metadata"
+    source:
+      section: METADATA
+    target:
+      section: WEATHER_METADATA
+
+  - mapping_uid: '2'
+    order: 1
+    notes: "Builds an ICASA WEATHER table (pre-aggregation) from SensorThings API sensor data time series (user-defined properties)"
+    source:
+      section: DATASTREAM
+    target:
+      section: WEATHER_INTERVALS
+    actions:
+      - type: rowwise_transform
+        output_header: atmospheric_wind_speed
+        input_map:
+          x: atmospheric_wind_speed
+        formula: "x * 86.4"
+      # Convert sunshine duration from minutes to hours.
+      - type: rowwise_transform
+        output_header: sunshine_duration
+        input_map:
+          x: sunshine_duration
+        formula: "x / 60"
+      # Create date variables for subsequent aggregations
+      - type: convert_data_type
+        columns:
+          phenomenonTime: "datetime"
+      - type: format_column
+        formats:
+          phenomenonTime:
+            output_header: weather_date
+            format: "%Y-%m-%d"
+      # Convert solar radiation from W/m2 to MJ/m2/d.
+      # 1- Sort by time to calculate intervals
+      - type: sort_rows
+        by_col: phenomenonTime
+      # 2- Calculate interval (in seconds) from the previous row.
+      - type: apply_function
+        function_name: calculate_time_lag
+        output_header: temp_interval_s
+        input_map: 
+          t: phenomenonTime
+        params:
+          units: 'secs'
+      # 3- Fill the 'NA' interval for the first row.
+      - type: apply_function
+        function_name: coalesce_with_adjacent
+        output_header: temp_interval_s  # Overwrite the same column  # CHECK
+        input_map:
+          x: temp_interval_s
+        params:
+          direction: 'forward'
+      # 4- Calculate Joules for this interval (Energy = Power * Time)
+      # (W/m2) * s = (J/s/m2) * s = J/m2
+      - type: rowwise_transform
+        output_header: temp_joules_interval
+        input_map:
+          v1: solar_radiation
+          v2: temp_interval_s
+        formula: "v1 * v2"
+
+  - mapping_uid: '3'
+    order: 2
+    notes: "Aggregates interval data to daily summaries and converts Joules to MJ."
+    source:
+      section: WEATHER_INTERVALS
+    target:
+      section: WEATHER_DAILY
+    actions:
+      - type: summarise
+        group_by: [weather_date]  #!! TODO: add device_id if grouped in df
+        summarise:
+          # Calculate total J/d
+          - fun: sum
+            columns: [temp_joules_interval]
+            output_header: total_joules_day
+            na_rm: true
+          - fun: max
+            columns: [air_temperature]
+            output_header: maximum_temperature
+            na_rm: true
+          - fun: min
+            columns: [air_temperature]
+            output_header: minimum_temperature
+            na_rm: true
+          - fun: sum
+            columns: [volume_of_hydrological_precipitation]
+            na_rm: true
+          - fun: sum
+            columns: [sunshine_duration]
+            na_rm: true
+          - fun: mean
+            columns: [relative_humidity]
+            na_rm: true
+          - fun: mean
+            columns: [atmospheric_wind_speed]
+            na_rm: true
+          - fun: mean
+            columns: [temperature_dewpoint]
+            na_rm: true
+          - fun: mean
+            columns: [sensor_voltage]
+            na_rm: true
+      # Convert J/m2/d to MJ/m2/d
+      - type: rowwise_transform
+        output_header: solar_radiation
+        input_map: { x: total_joules_day }
+        formula: "x / 1000000"
+
+
+# ------ PHENOLOGY GDD ESTIMATES OUTPUT ------
+
+  # - mapping_uid: '4'
+  #   notes: "xxx"
+  #   source:
+  #     section: CEREAL_PHENOLOGY
+  #   target:
+  #     section: TIME_SERIES
+  #   actions:
+  #   # TODO: check how it behaves when table has multiple gs scales!
+  #     - type: add_column_conditional
+  #       output_header: growth_stage_Zadoks
+  #       conditions:
+  #         - on_column: scale
+  #           if_equals: 'zadok'
+  #           then_value: scaled_code
+  #     - type: add_column_conditional
+  #       output_header: growth_stage_Haun
+  #       conditions:
+  #         - on_column: scale
+  #           if_equals: 'haun'
+  #           then_value: scaled_code
+  #     - type: add_column_conditional
+  #       output_header: growth_stage_BBCH
+  #       conditions:
+  #         - on_column: scale
+  #           if_equals: 'bbch'
+  #           then_value: scaled_code
+
+  - mapping_uid: '5'
+    notes: "xxx"
+    source:
+      section: CEREAL_PHENOLOGY
+    target:
+      section: SUMMARY
+    actions:
+      - type: pivot_wider
+        input_map:
+          names_from: growth_stage   # The column containing "Flowering", "Maturity"
+          values_from: date          # The column containing the dates
+        keep_only_pivot_cols: true
+
+
+# =================================================================
+# SELECT AND RENAME FINAL COLUMNS
+# =================================================================
+
+  - mapping_uid: '999'
+    notes: "Final schema application for all output tables."
+    actions:
+
+      - type: map_headers
+        target_section: WEATHER_METADATA
+        rename_map:
+          weather_station_name: Thing.name
+          weather_sta_longitude: longitude
+          weather_sta_latitude: latitude
+          weather_sta_start_date: start_date
+          weather_sta_end_date: end_date
+          # temperature_sensor_ht: sensor_height
+          # ref_height_windsp_meas: sensor_height
+          # institute_name
+          # contact...
+
+      - type: map_headers
+        target_section: WEATHER_DAILY
+        rename_map:
+          # year: phenomenonYear  #!!
+          weather_date: weather_date
+          maximum_temperature: maximum_temperature
+          minimum_temperature: minimum_temperature
+          solar_radiation: solar_radiation
+          sunshine_duration: sunshine_duration
+          precipitation: volume_of_hydrological_precipitation
+          realtive_humidity_avg: relative_humidity  # Note: ICASA typo
+          temperature_dewpoint: dew_point
+          wind_speed_daily: atmospheric_wind_speed
+          # evapotranspiration_reference: evapotranspiration
+          # vapor_pressure: vapour_pressure_deficit
+          sensor_voltage: voltage
+
+      - type: map_headers
+        target_section: TIME_SERIES
+        rename_map:
+          zadok_scale: zadok_scale
+          date_of_measurement: date
+          growth_stage_Zadoks: growth_stage_Zadoks
+          growth_stage_Haun: growth_stage_Haun
+          growth_stage_BBCH: growth_stage_BBCH
+
+      - type: map_headers
+        target_section: SUMMARY
+        rename_map:
+          emergence_date: Emergence
+          anthesis_date: Flowering
+          physiologic_maturity_dat: Maturity
+
+
+## --- SOIL SENSORS
+
+  # - mapping_uid: '3'
+  #   notes: "Builds an ICASA SOIL data table (pre-aggregation) from SensorThings API sensor data time series (user-defined properties)"
+  #   source:
+  #     section: DATASTREAMS
+  #   target:
+  #     section: SOIL_LAYERS
+  #   select_final_columns:
+  #     # experiment_ID: datastream_ID
+  #     date_of_measurement: phenomenonTime
+  #     me_soil_layer_bot_depth: measurement_depth  # Note 2025-09-25: use bottom depth as measurement depth
+  #     sensor_voltage: voltage
+  #     # Note 2025-09-25: in ICASA, soil temperature variables split by depth within SOIL LAYERS subsection? Makes no sense!
+  #     # soil_temperature_by_layer: soil_temperature
+  #     soil_water_by_layer: soil_water_content   # Review: not in ICASA as of 2025-09-25

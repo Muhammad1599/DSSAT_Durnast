@@ -1,0 +1,182 @@
+# DSSAT Dürnast — Structure Overview
+
+This document describes the **folder structure** of each main part of the project so you can see at a glance where scripts, data, and outputs live. The two main areas are **csmTools_durnast** (R ETL) and **DSSAT_Durnast** (Python simulation & analysis).
+
+---
+
+## Root (project root)
+
+```
+DSSAT_Durnast/
+├── README.md                 # Overall project readme and pipeline summary
+├── STRUCTURE_OVERVIEW.md      # This file — structure of each pipeline/folder
+├── csmTools_durnast/         # R ETL pipeline (data → ICASA → DSSAT inputs)
+└── DSSAT_Durnast /           # Python simulation & analysis (DSSAT run, viz, evaluation)
+```
+
+---
+
+## 1. csmTools_durnast (R ETL pipeline)
+
+**Purpose:** Prepare Dürnast experiment data (raw/BonaRes/SoilGrids) and produce ICASA + DSSAT input files.
+
+### 1.1 Top level
+
+```
+csmTools_durnast/
+├── csmTools-main/              # csmTools R package (ETL, ICASA/DSSAT mapping)
+└── duernast_exp_modeling-main/ # Dürnast-specific R script and data
+```
+
+### 1.2 csmTools-main
+
+```
+csmTools-main/
+├── R/                          # Package source (ETL, mapping, DSSAT helpers)
+│   ├── convert_dataset.R       # Core: user/icasa/dssat/nasapower conversions
+│   ├── build_simulation_files.R
+│   ├── get_field_data.R, get_weather_data.R, get_soil_data.R
+│   ├── read_exp_data.R, read_metadata.R
+│   ├── assemble_dataset.R, merge_tbls.R
+│   ├── map_icasa_headers.R, apply_mapping_rules.R
+│   ├── run_simulations.R
+│   └── ... (utils, format_dssat_*, mapping_actions_*, etc.)
+├── man/                        # R documentation (.Rd)
+├── inst/
+│   ├── extdata/                # YAML mapping configs
+│   │   ├── map_bonares_icasa.yaml
+│   │   ├── map_icasa_dssat.yaml
+│   │   ├── map_dssat_icasa.yaml
+│   │   └── ...
+│   └── examples/               # Example workflows
+├── data/                       # Package data (e.g. growth_stages.rda)
+├── tests/                      # testthat tests
+├── DESCRIPTION
+├── NAMESPACE
+├── README.md
+├── Dockerfile, install_dssat.sh, install_requirements.sh
+└── renv/, .github/, .devcontainer/
+```
+
+### 1.3 duernast_exp_modeling-main
+
+```
+duernast_exp_modeling-main/
+├── R/
+│   └── lte_duernast_data_mapping.R   # Main pipeline: raw → ICASA → DSSAT, write files
+├── data/
+│   ├── 0_raw/                  # Raw experiment CSVs + variable key (e.g. xlsx)
+│   ├── 1_icasa/                # Output: ICASA-format CSVs (FIELDS, WEATHER_DAILY, etc.)
+│   └── 2_dssat/                # Output: DSSAT input files (experiment, weather, soil)
+├── inst/
+│   └── extdata/                # e.g. dssat_control.json, dssat_control_2016.json
+├── temp/                       # Temp (e.g. SoilGrids zip)
+└── .gitignore
+```
+
+**Flow in duernast_exp_modeling:**  
+`0_raw` → (R script + csmTools) → `1_icasa` + `2_dssat`.
+
+---
+
+## 2. DSSAT_Durnast (Python simulation & analysis)
+
+**Purpose:** Run DSSAT N-Wheat for Dürnast 2015/2017, then visualize and evaluate results.
+
+### 2.1 Top level
+
+```
+DSSAT_Durnast /
+├── GENERALIZED_PIPELINE/       # Master workflow, config, visualization, evaluation
+├── DUERNAST2015/               # 2015 experiment (Spring Wheat)
+├── DUERNAST2017/               # 2017 experiment (Winter Wheat)
+├── water_sensitivity analysis results/
+├── Weather data extraction from NASAPOWER/
+├── DSSAT48/                    # DSSAT installation (executables, Genotype, etc.)
+├── run_2015.bat                # Run MASTER_WORKFLOW.py 2015
+├── run_2017.bat                # Run MASTER_WORKFLOW.py 2017
+└── run_all_experiments.bat     # Run all experiments
+```
+
+### 2.2 GENERALIZED_PIPELINE
+
+```
+GENERALIZED_PIPELINE/
+├── MASTER_WORKFLOW.py          # Entry: prerequisites → DSSAT run → viz → evaluation → summary
+├── config.py                   # Experiment configs (year, file_prefix, multi-year, etc.)
+├── create_duernast_visualizations.py   # 12-panel figures (treatments 1, 8, 15)
+├── model_evaluation_analysis.py        # Metrics + comparison for all 15 treatments
+├── requirements.txt           # Python deps (pandas, numpy, matplotlib, seaborn)
+└── __pycache__/
+```
+
+**Flow:**  
+`MASTER_WORKFLOW.py` uses `config.py`, runs DSSAT, then calls the visualization and model-evaluation scripts; they read/write under each experiment’s `output/`.
+
+### 2.3 DUERNAST2015 / DUERNAST2017 (per experiment)
+
+```
+DUERNAST2015/   (or DUERNAST2017/)
+├── input/
+│   ├── TUDU1501.WHX            # Experiment definition (N-Wheat)
+│   ├── TUDU1501.WTH            # Weather
+│   ├── TUDU1501.WHA            # Observed averages
+│   ├── DE.SOL                  # Soil profile
+│   └── orignal data/
+│       └── TUDU1501.WHT        # Observed field data (yield, grain N, etc.)
+├── Genotype/                   # N-Wheat cultivar parameters
+│   └── WHAPS048.CUL (and related)
+└── output/                     # Generated by MASTER_WORKFLOW
+    ├── Summary.OUT, PlantGro.OUT, PlantN.OUT, SoilWat.OUT, Weather.OUT, ...
+    ├── *_comprehensive_analysis.png, *_comprehensive_analysis.pdf
+    └── Model_analysis/
+        ├── *_comparison_all_treatments.csv
+        ├── *_model_metrics_summary.csv
+        └── *_model_evaluation.png, *_model_evaluation.pdf
+```
+
+Prefix is `TUDU1501` for 2015 and `TUDU1701` (plus optional `TUDU1601.WTH` for multi-year) for 2017.
+
+### 2.4 water_sensitivity analysis results
+
+```
+water_sensitivity analysis results/
+├── water_sensitivity_visualization.py   # Plots % observed yield vs extra rainfall
+└── sensitivity_table_percent_observed.csv # Input table for the script
+```
+
+### 2.5 Weather data extraction from NASAPOWER
+
+```
+Weather data extraction from NASAPOWER/
+└── retrieve_nasa_power_weather_data.py   # Fetch NASA POWER weather for the site
+```
+
+### 2.6 DSSAT48
+
+```
+DSSAT48/
+├── DSCSM048.EXE, DSCSM048.CTR   # CSM executable and control (used by workflow)
+├── Genotype/                    # Global genotype files (Wheat, etc.)
+├── Weather/                     # Optional global weather
+├── Wheat/, Soil/, StandardData/, ...
+└── Tools/                       # GLUE, XBuild, SBuild, etc.
+```
+
+The generalized pipeline copies experiment-specific inputs into each experiment’s `output/` and runs DSSAT from there; it may also sync genotype files with `DSSAT48/Genotype/` when configured.
+
+---
+
+## Summary table
+
+| Location | Role |
+|----------|------|
+| **csmTools_durnast/csmTools-main** | R package: ETL, ICASA/DSSAT mapping, build_simulation_files |
+| **csmTools_durnast/duernast_exp_modeling-main** | Dürnast R script; reads 0_raw, writes 1_icasa + 2_dssat |
+| **DSSAT_Durnast /GENERALIZED_PIPELINE** | Python master workflow, config, visualization, model evaluation |
+| **DSSAT_Durnast /DUERNAST2015**, **DUERNAST2017** | Experiment input + DSSAT output + figures and Model_analysis |
+| **DSSAT_Durnast /water_sensitivity analysis results** | Water sensitivity plots and table |
+| **DSSAT_Durnast /Weather data extraction from NASAPOWER** | NASA POWER weather retrieval script |
+| **DSSAT_Durnast /DSSAT48** | DSSAT installation (executables and shared data) |
+
+For a high-level description of the pipelines and how to run them, see **README.md** in the project root.
